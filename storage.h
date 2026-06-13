@@ -1,3 +1,4 @@
+//This class is a template class its mainly used to get the retrieved data from txt files.
 #pragma once
 // Implementing the class here in header file to avoid the linker error
 template <typename T>
