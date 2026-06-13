@@ -2,7 +2,7 @@
 #include <iostream>
 #include <limits>
 #include <cstring>
-
+//The file includes all the main implementation function of the project which are further used in main.cpp.
 using namespace std;
 
 void clearStdin() {
