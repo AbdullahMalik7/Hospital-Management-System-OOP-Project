@@ -1,5 +1,5 @@
 # Hospital Management System
-The Project is designed as a university project with upgradations in near future
+The Project is designed as a university project with upgradations in near future.
 
 ## Project Overview
 
