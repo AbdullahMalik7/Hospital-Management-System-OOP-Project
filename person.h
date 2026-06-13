@@ -1,3 +1,4 @@
+//The class acts as the main abstract class of the whole project with further being inherited into admin doctor and patient files.
 #pragma once
 
 class Person {
