@@ -2,7 +2,7 @@
 #include <fstream>
 #include "file-not-found-exception.h"
 // Loaders Implementation
-
+//instead of seprate database filehandlers are used as the project is strictly restricted to use of C++.
 void FileHandler::loadPatients(Storage<Patient>& patientDB){
     std::ifstream file("patients.txt");
 
